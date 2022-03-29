@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a undergraduate currently pursuing a Bacholor in Computer Engineering in NTU, expecting to graduate by 2024.
+I am a undergraduate currently pursuing a Bachelor in Computer Engineering in NTU, expecting to graduate by 2024.
 
 #### Proficient Languages
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
