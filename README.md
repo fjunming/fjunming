@@ -33,7 +33,7 @@ Love casual gaming! Heavily invested in Genshin Impact, Minecraft and League of 
   ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## Projects
-#### [FYP Report]()
+#### [FYP Report](https://github.com/fjunming/fjunming/blob/main/Foo%20Jun%20Ming_Final%20Year%20Project%20Report%20FINAL.pdf) and [FYP Poster](https://github.com/fjunming/fjunming/blob/main/FYP%20poster.pdf)
 
 <!--
 Badges from: https://dev.to/envoy_/150-badges-for-github-pnk
